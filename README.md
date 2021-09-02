@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science for hydrogeology
 - 🌱 I’m currently learning flopy
 - 💞️ I’m looking to collaborate on MODFLOW-6, pyEmu, flopy
-- 📫 How to reach me gmezacuadra@gmail.com
+- 📫 How to reach me: here
 
 <!---
 gmezacuadra/gmezacuadra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
